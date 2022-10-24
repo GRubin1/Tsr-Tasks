@@ -1,20 +1,12 @@
 ## This is a Login example for TSR.
 
-## To run first use
+# To run first use
 
-npm install
+npm install (or) yarn install
 
-# or
+# and then run
 
-yarn install
-
-## and then run
-
-npm run dev
-
-# or
-
-yarn dev
+npm run dev (or) yarn dev
 
 ## To access the app head to
 
